@@ -1,4 +1,4 @@
-[tuxedo-touchpad-switch](https://github.com/tuxedocomputers/tuxedo-touchpad-switch ) это userspace маленький демон, который позволяет отключать/включать по клавише(F7) или по двойному щелчку на led(левый верхний угол) touchpad. Этой программке обязательно нужны загруженные модули [tuxedo-keyboard](https://github.com/tuxedocomputers/tuxedo-keyboard), [мой форк тут](git@github.com:abyss-soft/tuxedo-keyboard.git). Без модулей не работает!
+[tuxedo-touchpad-switch](https://github.com/tuxedocomputers/tuxedo-touchpad-switch ) это userspace маленький демон, который позволяет отключать/включать по клавише(F7) или по двойному щелчку на led(левый верхний угол) touchpad. Этой программке обязательно нужны загруженные модули [tuxedo-keyboard](https://github.com/tuxedocomputers/tuxedo-keyboard), [мой форк тут](https://github.com/abyss-soft/tuxedo-keyboard.git). Без модулей не работает!
 
 # About
 
